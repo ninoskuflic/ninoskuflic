@@ -6,7 +6,7 @@ In a nutshell, I'm a twenty-four-year-old digital designer and developer from Cr
 ### 🔍 Currently?
 I'm working as a Business Consultant | Content & Digital Assets at IBM iX, and as a Lecturer at Algebra.
 
-#### 🔭 My aspirations
+### 🔭 My aspirations
 I want to further develop my skills so that I can strive to be the most successful version of myself.
 
 ### 🖤 Some things I love
