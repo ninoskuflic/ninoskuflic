@@ -1,26 +1,9 @@
-## Hi there, my name is Nino, nice to meet you. 👋
+# About me
+Hi there, my name is Nino, nice to meet you. 👋
 
-### About me
-In a nutshell, I'm a twenty-four-year-old digital designer and developer from Croatia. I have a bachelor's degree in Web and Mobile Computing and Anthropology and Sociology minor from Rochester Institute of Technology, NY, USA.
-
-### 🔍 Currently?
-I'm working as a Digital Business Consultant | Content & Digital Assets at IBM iX, and as a Front-End Development Lecturer at Algebra University.
-
-### 🔭 My aspirations
-I want to further develop my skills so that I can strive to be the most successful version of myself.
-
-### 🖤 Some things I love
-Programming, UI/UX, designing, playing video games, and cyber security.
-
-Send me a message if you'd like to connect! I'm always happy to support others and I love hearing different stories.
-
-### 📺 Watch TV+
-Watch TV+ is a project (created in React) that has millions of movies, series, and celebrities to search for. Explore them all! ✨
-
-If you want to learn more about the project, read the [blog post](https://go.skuflic.com/awtvp), and if you'd like to explore the project, click [here](https://tv.skuflic.com).
+I’m a self-starter and naturally motivated. I work well with a team and thrive in a collaborative environment. I can handle complexity and deal well with ambiguity. Currently, I support IBM iX as a Digital Business Consultant, and Algebra University as a Lecturer where I'm teaching Front-End Development. I'm passionate about technology, development, gaming and cybersecurity. To learn more about me, please visit my LinkedIn profile at https://go.skuflic.com/linkedin.
 
 # Security Policy
-
 ## Reporting Security Issues
 
 If you are a security researcher and believe you have found a security vulnerability, I would like to work with you to investigate it.
