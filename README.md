@@ -1,7 +1,7 @@
 # About me
 Hi there, my name is Nino, nice to meet you. 👋
 
-I’m a self-starter and naturally motivated. I work well with a team and thrive in a collaborative environment. I can handle complexity and deal well with ambiguity. Currently, I support IBM iX as a Digital Business Consultant, and Algebra University as a Lecturer where I'm teaching Front-End Development. I'm passionate about technology, development, gaming and cybersecurity. To learn more about me, please visit my LinkedIn profile at https://go.skuflic.com/linkedin.
+To learn more about me, please visit my LinkedIn profile at https://go.skuflic.com/linkedin.
 
 # Security Policy
 ## Reporting Security Issues
