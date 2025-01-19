@@ -7,7 +7,7 @@ I’m a self-starter and naturally motivated. I work well with a team and thrive
 ## Reporting Security Issues
 
 If you are a security researcher and believe you have found a security vulnerability, I would like to work with you to investigate it.
-Please do not report security vulnerabilities through public GitHub issues. Instead, report them to product-security@skuflic.com.
+Please do not report security vulnerabilities through public GitHub issues. Instead, report them to security@skuflic.com.
 
 You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure I have received your original message.
 
